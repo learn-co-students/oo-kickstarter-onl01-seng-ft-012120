@@ -11,6 +11,7 @@ class Project
         @backers << backer
         backer.backed_projects << self
         #class you are joining with, '.', 
-        #array you are pushing self (project instance) into
+        #array (from the class you are joining with) 
+        #you are pushing self (project instance) into
     end
 end

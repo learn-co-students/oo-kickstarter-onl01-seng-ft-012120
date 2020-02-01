@@ -13,5 +13,4 @@ class Project
         #class you are joining with, '.', 
         #array you are pushing self (project instance) into
     end
-
 end

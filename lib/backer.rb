@@ -13,5 +13,4 @@ class Backer
         #class you are joining with, '.', 
         #array you are pushing self (backer instance) into
     end
-
 end
